@@ -6,7 +6,7 @@
 - [гелиос](common/helios.md)
 - [отчеты](common/reports.md)
 ## Прога
-- [лаба 1](programming/lab1)
+- [лаба 1](programming/lab1.md)
 ---
 живите и процветайте!
 
