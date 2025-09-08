@@ -30,7 +30,7 @@ ssh sXXXXXX@helios.cs.ifmo.ru -p 2222
 Открываем терминал своей ОС (для Windows - это cmd) и вводим следующую команду:  
 Для скачивания файла с сервера Helios на локальную машину:
 ```bash
-scp -P 2222 sXXXXXX@helios.cs.ifmo.ru:~/hello.txt hello.txt
+scp -P 2222 hello.txt  sXXXXXX@helios.cs.ifmo.ru:~/hello.txt
 ```
 
 Если ваша версия Windows ниже 10-ой: использовать программу WinSCP
