@@ -63,4 +63,4 @@
 ### о главном
 дорогу осилит идущий, не переживайте и у вас все получится!
 
-![sheldon](images/sheldon_live_long.gif)
+![sheldon](../images/sheldon_live_long.gif)
