@@ -20,4 +20,4 @@
 ### распростарнненые ошибки
 - пока не распростарнял
 
-![luci](../images/young_sheldon.gif)
+![young_sheldon](../images/young_sheldon.gif)
