@@ -8,7 +8,8 @@
 ## Прога
 - [лаба 1](programming/lab1.md)
 - [лаба 2](programming/lab2.md)
-- [лаба 3](programming/lab3.md)
+- [лаба 3-4](programming/lab3.md)
+- [лаба 5](programming/lab5.md)
 ---
 живите и процветайте!
 
