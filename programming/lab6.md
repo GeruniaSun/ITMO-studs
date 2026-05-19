@@ -15,4 +15,4 @@
 - нет валидации на сервере
 - нет валидации на клиенте
 
-![peacemaker](../images/phil.gif)
+![thumb up](../images/phil.gif)
