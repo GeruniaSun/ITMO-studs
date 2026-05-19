@@ -5,11 +5,16 @@
 - [в целом о занятиях](common/format.md)
 - [гелиос](common/helios.md)
 - [отчеты](common/reports.md)
+  
 ## Прога
 - [лаба 1](programming/lab1.md)
 - [лаба 2](programming/lab2.md)
 - [лаба 3-4](programming/lab3.md)
 - [лаба 5](programming/lab5.md)
+- [лаба 6](programming/lab6.md)
+- [лаба 7](programming/lab7.md) 
+- [лаба 8](programming/lab8.md)
+  
 ---
 живите и процветайте!
 
